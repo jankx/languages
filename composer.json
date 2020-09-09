@@ -1,0 +1,14 @@
+{
+    "name": "jankx/languages",
+    "description": "Jankx theme framework translations",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jankx Team",
+            "email": "puleeno@gmai.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
