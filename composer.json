@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "\\Jankx\\Languages": "src/"
+            "\\Jankx\\Languages\\": "src/"
         },
         "files": [
             "./bootstrap.php"
