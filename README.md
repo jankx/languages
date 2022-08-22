@@ -15,5 +15,4 @@ Scope: Only translate for below packages:
 - jankx/template
 - jankx/widget
 - jankx/pagination
-- jankx/yaml
 - jankx/seo
